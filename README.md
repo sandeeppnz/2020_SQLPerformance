@@ -1,6 +1,13 @@
 # SQL Performance
 
 ## Tools and concepts
+- SQL Server client
+- Data in a table is stored in a tree like structure called Clustered Index Structure
+
+![Capture10](https://user-images.githubusercontent.com/5715815/88490453-e4253b00-cfef-11ea-913e-4607d8593d9e.PNG)
+
+
+
 
 ## How SQL Server executes them
 
