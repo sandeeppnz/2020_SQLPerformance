@@ -17,10 +17,12 @@
 
 
 ## How SQL Server executes them
-- Generate an execution plan: Execution plan (watch out for Clustered Index Scan) however Clustered Index Seek, Estimated Operator Cost, 
+- Generate an execution plan (this does not run the execution): Execution plan (watch out for Clustered Index Scan) however Clustered Index Seek, Estimated Operator Cost, 
 ![image](https://user-images.githubusercontent.com/5715815/88502441-82ca8f80-d022-11ea-9756-c63f2b402be6.png)
 
-
+- Adding a command (this runs a execution): 
+SET Statistics IO ON
+SET Statistics TIME ON
 
 - Reading an execution plan
 - View execution statistics
