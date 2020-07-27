@@ -16,11 +16,16 @@
 ![image](https://user-images.githubusercontent.com/5715815/88501328-3d589300-d01f-11ea-9129-f17500846f1c.png)
 
 
-
-
-
-
 ## How SQL Server executes them
+- Generate an execution plan: Execution plan (watch out for Clustered Index Scan) however Clustered Index Seek, Estimated Operator Cost, 
+![image](https://user-images.githubusercontent.com/5715815/88502441-82ca8f80-d022-11ea-9756-c63f2b402be6.png)
+
+
+
+- Reading an execution plan
+- View execution statistics
+
+
 
 ## Indexing
 
