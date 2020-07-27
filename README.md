@@ -6,7 +6,9 @@
 
 ![Capture10](https://user-images.githubusercontent.com/5715815/88490453-e4253b00-cfef-11ea-913e-4607d8593d9e.PNG)
 - Leaf nodes store datarows known as a page (8KB)
-- Data is stored in sorted order by the Cluster Key
+- Data is stored in sorted order by the Cluster Key (by default primary key will be cluster key)
+- Avoid scan operations by introducing indexes (e.g. student name)
+- 
 
 
 
