@@ -1,4 +1,4 @@
-# SQL Performance Monitoring
+# SQL Performance and Optimisation
 
 ## Tools and concepts
 - SQL Server client
