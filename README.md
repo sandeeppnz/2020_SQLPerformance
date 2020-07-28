@@ -29,7 +29,7 @@ SET Statistics TIME ON
 - Pay attention to the Logical reads (a read of a page): when sql server has to read a page from memory or disk to process the statement
 - 12023 x 8 KB data to process as shown below:
 ![image](https://user-images.githubusercontent.com/5715815/88622834-bc20ff00-d0f7-11ea-9f26-b1cac6d8ea93.png)
-
+- if the CPU time is larger than the elapsed time, that indicates that SQL server has used parallel execution 
 
 
 - Reading an execution plan
