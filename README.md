@@ -24,6 +24,13 @@
 SET Statistics IO ON
 SET Statistics TIME ON
 
+* Should be careful with DML (updates and delete statements)
+
+- Pay attention to the Logical reads (a read of a page): when sql server has to read a page from memory or disk to process the statement
+![image](https://user-images.githubusercontent.com/5715815/88622834-bc20ff00-d0f7-11ea-9f26-b1cac6d8ea93.png)
+
+
+
 - Reading an execution plan
 - View execution statistics
 
