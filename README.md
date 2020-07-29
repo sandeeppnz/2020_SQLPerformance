@@ -123,6 +123,9 @@ Now re run the query, which will use the computed column
 ![image](https://user-images.githubusercontent.com/5715815/88766881-e98bac80-d1cc-11ea-84b3-37070aa4bd29.png)
 
 
+- Include columns and convering indexes
+
+
 
 
 
