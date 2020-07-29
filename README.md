@@ -96,6 +96,10 @@ So order of the column depends on the frequency of the columns found in the WHER
 ![image](https://user-images.githubusercontent.com/5715815/88764910-d7f4d580-d1c9-11ea-83f8-ab07f62757e7.png)
 
 
+### Index Selectivity
+- Effects of selectivity
+![image](https://user-images.githubusercontent.com/5715815/88765402-8a2c9d00-d1ca-11ea-94c4-b4a80e1e7a58.png)
+
 
 
 
