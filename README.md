@@ -42,10 +42,12 @@ The solution is given below, create the index:
 Next, check the execution plan again:
 ![image](https://user-images.githubusercontent.com/5715815/88762047-8007a000-d1c4-11ea-8b90-5500dbe10eda.png)
 
-
+Now the logical reads have decreased:
+![image](https://user-images.githubusercontent.com/5715815/88762141-bb09d380-d1c4-11ea-95b0-a488cb9f4183.png)
 
 
 - View execution statistics
+
 
 
 
