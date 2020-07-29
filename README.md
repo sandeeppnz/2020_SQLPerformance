@@ -148,3 +148,10 @@ Now re run the query, which will use the computed column
 ## Application practices
 
 
+
+
+
+# Interesting
+![image](https://user-images.githubusercontent.com/5715815/88768246-e85b7f00-d1ce-11ea-92c9-cf44282fca36.png)
+
+
