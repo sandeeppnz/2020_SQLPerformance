@@ -124,7 +124,7 @@ Now re run the query, which will use the computed column
 
 
 - Include columns and convering indexes
-- Covering index: find all the data for the query in the index itself. This avoids a need for a key lookup operation to find the data row in the table
+- Covering index: find all the data for the query in the index itself. This avoids a need for a key lookup operation to find the data row in the table. Consider only if there are one or two columns in INCLUDE, because indexing requirement is higher for with number of columns
 ![image](https://user-images.githubusercontent.com/5715815/88767245-7898c480-d1cd-11ea-9dd7-151836f6fd7d.png)
 
 
