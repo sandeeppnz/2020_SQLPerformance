@@ -66,9 +66,13 @@ Scan vs Seek: need to question why the scan is used
 
 
 
+## Building Effective Indexes
+- Clustered Index vs Non-Clustered Index
+![image](https://user-images.githubusercontent.com/5715815/88763895-0f628280-d1c8-11ea-9315-b834d5253be9.png)
 
 
-## Indexing
+
+- Too many indexes slow down DML
 
 ## Query performance statistics
 
