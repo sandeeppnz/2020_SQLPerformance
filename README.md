@@ -152,6 +152,6 @@ Now re run the query, which will use the computed column
 
 
 # Interesting
-![image](https://user-images.githubusercontent.com/5715815/88768246-e85b7f00-d1ce-11ea-92c9-cf44282fca36.png)
+![image](https://user-images.githubusercontent.com/5715815/88768287-fc06e580-d1ce-11ea-92c9-5b7fb11133bc.png)
 
 
