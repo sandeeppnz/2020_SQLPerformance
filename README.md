@@ -105,6 +105,8 @@ So order of the column depends on the frequency of the columns found in the WHER
 - Having a index on the State is not selective because, 
 ![image](https://user-images.githubusercontent.com/5715815/88765796-25be0d80-d1cb-11ea-8a70-1c38d6a23181.png)
 
+- Force to used Index
+![image](https://user-images.githubusercontent.com/5715815/88765892-500fcb00-d1cb-11ea-82ec-36c1bd1fd5b2.png)
 
 
 
