@@ -24,8 +24,7 @@
 - Adding a command (this runs a execution): 
 SET Statistics IO ON
 SET Statistics TIME ON
-
-* Should be careful with DML (updates and delete statements)
+* Should be careful with DML (updates and delete statements). This is going run the queries. 
 
 - Pay attention to the Logical reads (a read of a page): when sql server has to read a page from memory or disk to process the statement
 - 12023 x 8 KB data to process as shown below:
