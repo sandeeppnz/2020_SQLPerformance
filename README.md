@@ -128,6 +128,7 @@ Now re run the query, which will use the computed column
 ![image](https://user-images.githubusercontent.com/5715815/88767245-7898c480-d1cd-11ea-9dd7-151836f6fd7d.png)
 
 - for DML ops, SQL server has to keep all the indexes in sync, so more indexes, there is maintanence costs. Use Dynamic Views to access rich set of performance data including index ussage data.
+![image](https://user-images.githubusercontent.com/5715815/88767835-4b004b00-d1ce-11ea-9ba8-949e3471cc7a.png)
 
 
 
