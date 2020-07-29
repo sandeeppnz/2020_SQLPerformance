@@ -92,6 +92,8 @@ Scan vs Seek: need to question why the scan is used
 - Rearranging the Index Entries will be help to optimise (Columns should be in the right order- Multi column indexes)
 ![image](https://user-images.githubusercontent.com/5715815/88764567-48e7bd80-d1c9-11ea-84c8-ede5082eb567.png)
 
+So order of the column depends on the frequency of the columns found in the WHERE clause
+
 
 
 
