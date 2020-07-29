@@ -112,6 +112,11 @@ So order of the column depends on the frequency of the columns found in the WHER
 - If the wildcard % is used in front, the index cannot be used for that column (because index is in sort order), can be used for % somewhere else, selectivity is count to the right
 ![image](https://user-images.githubusercontent.com/5715815/88766370-0378bf80-d1cc-11ea-8f19-f835311bb95a.png)
 
+- Using functions in the WHERE clause, SQL server will not be able to use indexes
+![image](https://user-images.githubusercontent.com/5715815/88766537-4aff4b80-d1cc-11ea-863c-47ae2a424c25.png)
+
+
+
 
 
 
