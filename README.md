@@ -46,7 +46,18 @@ Now the logical reads have decreased:
 ![image](https://user-images.githubusercontent.com/5715815/88762141-bb09d380-d1c4-11ea-95b0-a488cb9f4183.png)
 
 
-- View execution statistics
+### Re-writing the Query
+![image](https://user-images.githubusercontent.com/5715815/88762678-c1e51600-d1c5-11ea-9d66-0bdb538afd8c.png)
+
+vs 
+
+![image](https://user-images.githubusercontent.com/5715815/88762708-d32e2280-d1c5-11ea-87cc-be16dda93848.png)
+
+
+
+
+
+
 
 
 
