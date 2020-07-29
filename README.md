@@ -137,7 +137,14 @@ Now re run the query, which will use the computed column
 - Use Index recommendation in the SSMS but carefully
 
 ## Query performance statistics (Dynamic management view and function)
-- Required permissions
+http://buildingbettersoftware.blogspot.com/2016/04/dmv-queries-from-my-pluralsight-course.html
+
+- Required permissions: VIEW SERVER STATE privilege is require to access the SQL sever DMVs
+
+![image](https://user-images.githubusercontent.com/5715815/88769110-1d1c0600-d1d0-11ea-973b-828802eac1f4.png)
+
+
+
 - Connection and session data
 - Executing SQL statements
 - Execution stats
