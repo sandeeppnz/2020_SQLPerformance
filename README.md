@@ -79,9 +79,15 @@ Scan vs Seek: need to question why the scan is used
 
 
 
-
-
 - Too many indexes slow down DML
+
+### Indexing Strategy
+- Add indexes for WHERE clause
+
+![image](https://user-images.githubusercontent.com/5715815/88764160-931c6f00-d1c8-11ea-9b5a-fe0d8d579afd.png)
+
+- 
+
 
 ## Query performance statistics
 
