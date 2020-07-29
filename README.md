@@ -99,6 +99,12 @@ So order of the column depends on the frequency of the columns found in the WHER
 ### Index Selectivity
 - Effects of selectivity
 ![image](https://user-images.githubusercontent.com/5715815/88765402-8a2c9d00-d1ca-11ea-94c4-b4a80e1e7a58.png)
+#### e.g. 
+![image](https://user-images.githubusercontent.com/5715815/88765505-b2b49700-d1ca-11ea-8ab7-4e5491199131.png)
+
+- Having a index on the State is not selective because, 
+![image](https://user-images.githubusercontent.com/5715815/88765796-25be0d80-d1cb-11ea-8a70-1c38d6a23181.png)
+
 
 
 
