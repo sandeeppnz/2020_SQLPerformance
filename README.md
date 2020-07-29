@@ -119,6 +119,8 @@ To resolve this, add a computed column to the table and then created an index on
 ![image](https://user-images.githubusercontent.com/5715815/88766738-a9c4c500-d1cc-11ea-8aac-9ddc47f18611.png)
 ![image](https://user-images.githubusercontent.com/5715815/88766785-c19c4900-d1cc-11ea-81a0-bc546f0d2ba2.png)
 
+Now re run the query, which will use the computed column
+![image](https://user-images.githubusercontent.com/5715815/88766881-e98bac80-d1cc-11ea-84b3-37070aa4bd29.png)
 
 
 
