@@ -54,8 +54,11 @@ vs
 ![image](https://user-images.githubusercontent.com/5715815/88762708-d32e2280-d1c5-11ea-87cc-be16dda93848.png)
 
 
+Scan vs Seek: need to question why the scan is used
 
-
+- Nested Loops Join: For each value in the first data set, SQL server loops through the second data set looking for matches. 
+- Merge Joins are efficient, but need to be sorted first. Used to join two datasets that are already sorted using the same key. A row from each source is obtained. If the rows match they are joined. If the rows do not match, the lower value row is discarded and a new row is obtained from that source.
+- Hash Match: A hashable of the smaller data set is create, then SQL server loops thorough the data larger data set probing the hashable for matching values. Used when two large datasets must be joined.
 
 
 
