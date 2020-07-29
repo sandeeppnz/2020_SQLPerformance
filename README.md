@@ -136,12 +136,16 @@ Now re run the query, which will use the computed column
 
 - Use Index recommendation in the SSMS but carefully
 
+## Query performance statistics (Dynamic management view and function)
+- Required permissions
+- Connection and session data
+- Executing SQL statements
+- Execution stats
+- Missing index recommendations
+- Index usage data
 
 
 
-
-
-## Query performance statistics
 
 ## Profiling in SQL server
 
