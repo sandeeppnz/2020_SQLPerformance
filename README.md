@@ -93,6 +93,7 @@ Scan vs Seek: need to question why the scan is used
 ![image](https://user-images.githubusercontent.com/5715815/88764567-48e7bd80-d1c9-11ea-84c8-ede5082eb567.png)
 
 So order of the column depends on the frequency of the columns found in the WHERE clause
+![image](https://user-images.githubusercontent.com/5715815/88764910-d7f4d580-d1c9-11ea-83f8-ab07f62757e7.png)
 
 
 
