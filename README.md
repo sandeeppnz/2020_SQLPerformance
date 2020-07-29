@@ -86,7 +86,14 @@ Scan vs Seek: need to question why the scan is used
 
 ![image](https://user-images.githubusercontent.com/5715815/88764160-931c6f00-d1c8-11ea-9b5a-fe0d8d579afd.png)
 
-- 
+- By default Primary key column is indexed by SQL Server
+- Foreign Key columns - Helps speed up the join operations, applications query tables by foreign key values
+
+- Rearranging the Index Entries will be help to optimise
+![image](https://user-images.githubusercontent.com/5715815/88764567-48e7bd80-d1c9-11ea-84c8-ede5082eb567.png)
+
+
+
 
 
 ## Query performance statistics
