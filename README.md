@@ -33,6 +33,18 @@ SET Statistics TIME ON
 - So minimise a logical reads
 
 - Reading an execution plan
+
+![image](https://user-images.githubusercontent.com/5715815/88761948-3d45c800-d1c4-11ea-8448-f6e376c90415.png)
+
+The solution is given below, create the index:
+![image](https://user-images.githubusercontent.com/5715815/88761971-50589800-d1c4-11ea-9b6a-b4642e172bb1.png)
+
+Next, check the execution plan again:
+![image](https://user-images.githubusercontent.com/5715815/88762047-8007a000-d1c4-11ea-8b90-5500dbe10eda.png)
+
+
+
+
 - View execution statistics
 
 
