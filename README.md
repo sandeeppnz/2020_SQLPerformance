@@ -124,6 +124,7 @@ Now re run the query, which will use the computed column
 
 
 - Include columns and convering indexes
+![image](https://user-images.githubusercontent.com/5715815/88767003-1a6be180-d1cd-11ea-87f2-3ba7da726183.png)
 
 
 
