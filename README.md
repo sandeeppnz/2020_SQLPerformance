@@ -116,6 +116,7 @@ So order of the column depends on the frequency of the columns found in the WHER
 ![image](https://user-images.githubusercontent.com/5715815/88766537-4aff4b80-d1cc-11ea-863c-47ae2a424c25.png)
 
 To resolve this, add a computed column to the table and then created an index on that column
+![image](https://user-images.githubusercontent.com/5715815/88766738-a9c4c500-d1cc-11ea-8aac-9ddc47f18611.png)
 
 
 
